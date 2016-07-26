@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+
+
+gem 'simple_form'
 # twitter-bootstrap-rails gem from rubytoolbox
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

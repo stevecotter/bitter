@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 
-
+gem 'devise'
 gem 'simple_form'
 # twitter-bootstrap-rails gem from rubytoolbox
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
